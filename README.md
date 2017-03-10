@@ -1,6 +1,6 @@
 ![ElasticSuite](doc/static/elasticsuite-banner.jpg)
 
-## News
+## New
 
 ### ⚠️ Magento versions compatibility :
 
